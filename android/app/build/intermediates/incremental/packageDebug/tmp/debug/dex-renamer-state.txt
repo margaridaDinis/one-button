@@ -1,0 +1,4 @@
+#Fri May 18 13:27:56 CEST 2018
+base.0=/Users/margaridadinis/Projects/one-button/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
